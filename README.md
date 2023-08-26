@@ -1,13 +1,11 @@
-<h1 align="center">Hi, I'm Pedro 👋</h1>
-<h3 align="center">I'm a dedicated full-stack developer with a passion for both coding and astronomy. Just as stars light up the night sky 🌌, I believe that lines of code illuminate the digital realm. My journey involves exploring both the intricacies of software development and the mysteries of the universe. Let's collaborate and create something truly stellar!</h3>
+<h1 align="left">Hi, I'm Pedro 👋</h1>
+<h3 align="left">I'm a dedicated full-stack developer with a passion for both coding and astronomy. Just as stars light up the night sky 🌌, I believe that lines of code illuminate the digital realm. My journey involves exploring both the intricacies of software development and the mysteries of the universe. Let's collaborate and create something truly stellar!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrovalravn" alt="pedrovalravn" /></a> </p>
+- 🌱 I’m currently learning: **java, angular & springboot3**
 
-- 🌱 I’m currently learning **java, angular & springboot3**
+- 💬 Ask me about: **javascript**
 
-- 💬 Ask me about **javascript**
-
-- 📫 How to reach me **pedrovalravn@outlook.com**
+- 📫 How to reach me: **pedrovalravn@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
