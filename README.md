@@ -22,5 +22,5 @@
 
 <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovalravn&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=FFD083&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedrovalravn&bg_color=000&border_color=000&title_color=FFD083&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovalravn&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovalravn&layout=compact&langs_count=7&theme=dark)
 
