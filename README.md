@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning: **java, angular & springboot3**
 
-- 💬 Ask me about: **javascript**
-
 - 📫 How to reach me: **pedrovalravn@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
