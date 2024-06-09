@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Pedro 👋</h1>
 <h3 align="left">I'm a dedicated full-stack developer with a passion for both coding and astronomy. Just as stars light up the night sky 🌌, I believe that lines of code illuminate the digital realm. My journey involves exploring both the intricacies of software development and the mysteries of the universe. Let's collaborate and create something truly stellar!</h3>
 
-- 🌱 I’m currently learning: **angular & python**
+- 🌱 I’m currently learning: **python**
 
 - 📫 How to reach me: **pedrovalravn@outlook.com**
 
